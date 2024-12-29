@@ -1,4 +1,3 @@
-
 type Errors = {
   email?: string[];
   firstName?: string[];
